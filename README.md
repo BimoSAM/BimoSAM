@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on ...
 
-📫 How to reach me {"Hotmail":"bimohkc624@outlook.com","2":"Power BI","3":"Tableau","4":"Advanced Machine Learning"}...
+📫 How to reach me {Email:"bimohkc624@outlook.com",Phone:"+85261921787"
 
 <!---
 BimoSAM/BimoSAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
